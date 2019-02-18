@@ -1,5 +1,11 @@
 # My H5BP (Base on [html5boilerplate](https://html5boilerplate.com))
 
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#!!! No longer used, switch to Django completely.
+#!!! I created a new repo: [YXSite](https://github.com/magiclyx/YXSite)
+#!!! YXSite is just getting started and will be updated gradually
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 ## Integration
 
